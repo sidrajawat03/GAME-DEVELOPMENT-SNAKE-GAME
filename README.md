@@ -77,3 +77,10 @@ g++ -std=c++17 -I/opt/homebrew/include -L/opt/homebrew/lib \
 ├── gameover.wav      # Game over sound effect
 └── README.md         # This file
 ```
+## Gallery
+
+<img width="793" height="627" alt="image" src="https://github.com/user-attachments/assets/2735ac1b-f44b-469c-b25c-a09850d3436b" />
+
+<img width="789" height="619" alt="image" src="https://github.com/user-attachments/assets/778122eb-6934-41f1-bbe3-cbb1db3d59ea" />
+
+
