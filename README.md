@@ -1,6 +1,14 @@
 # Modern Snake Game
+**COMPANY:** Codtech IT Solutions  
+**NAME:** Siddharth singh Rajawat
+**INTERN ID:** CT04DZ1977
+**DOMAIN:** C++ Programming 
+**DURATION:** 4 Weeks  
+**MENTOR:** Neela Santhosh  
 
-A professional-grade Snake game implementation using SFML with modern C++ practices.
+## 📖 Overview
+
+This project is a visually engaging implementation of the classic **Snake Game** using **C++ and SFML**. It demonstrates your ability to build an interactive graphical application with modular design, real-time input handling, and dynamic gameplay elements.
 
 ## Features
 
